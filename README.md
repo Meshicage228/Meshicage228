@@ -53,10 +53,10 @@ An active and energetic programmer who is ready to fully immerse himself in work
 #### Some Statistics about me :
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Meshicage228" />
+  <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Meshicage228" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meshicage228&layout=compact&langs_count=8&card_width=370" />
+  <img width="450" height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meshicage228&layout=compact&langs_count=8&card_width=370" />
 </a>
 
 #### Profile Visits 
