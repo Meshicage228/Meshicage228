@@ -51,14 +51,15 @@ An active and energetic programmer who is ready to fully immerse himself in work
   
 ---
 #### Some Statistics about me :
+<div id="badges">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="410" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Meshicage228" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img width="410" height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meshicage228&layout=compact&langs_count=8&card_width=370" />
+    </a>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Meshicage228" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width="450" height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meshicage228&layout=compact&langs_count=8&card_width=370" />
-</a>
-
+---
 #### Profile Visits 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Meshicage228)
