@@ -39,13 +39,18 @@ An active and energetic programmer who is ready to fully immerse himself in work
 
 ---
 #### Social Media :
-
 <div id="badges">
     <a href="https://t.me/Meshicage" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://vk.com/ascended_sky" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    <a href="https://discordapp.com/users/391291170593964034/" target="_blank">
+      <img src="https://github.com/Iku/discordicons/blob/master/green-app.ico" width="45" height="45" alt="Discord Badge"/>
+    </a>
+     <a href="https://www.instagram.com/ascended_sky/" target="_blank">
+      <img src="https://github.com/rdimascio/icons/blob/master/icons/color/instagram.svg" width="40" height="40" alt="Instagramm Badge"/>
     </a>
   </div>
   
