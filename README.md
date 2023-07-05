@@ -61,7 +61,7 @@ An active and energetic programmer who is ready to fully immerse himself in work
       <img width="410" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Meshicage228&show_icons=true&theme=transparent" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img width="440" height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meshicage228&layout=compact" />
+      <img width="410" height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meshicage228&layout=compact" />
     </a>
 </div>
 
