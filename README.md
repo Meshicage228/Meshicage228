@@ -27,6 +27,11 @@ An active and energetic programmer who is ready to fully immerse himself in work
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+    
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
@@ -48,9 +53,6 @@ An active and energetic programmer who is ready to fully immerse himself in work
     </a>
     <a href="https://discordapp.com/users/391291170593964034/" target="_blank">
       <img src="https://github.com/Iku/discordicons/blob/master/green-app.ico" width="45" height="45" alt="Discord Badge"/>
-    </a>
-     <a href="https://www.instagram.com/ascended_sky/" target="_blank">
-      <img src="https://github.com/rdimascio/icons/blob/master/icons/color/instagram.svg" width="40" height="40" alt="Instagramm Badge"/>
     </a>
   </div>
   
