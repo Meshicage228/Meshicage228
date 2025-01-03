@@ -7,7 +7,8 @@ An active and energetic programmer who is ready to fully immerse himself in work
 
 ### About me and my path :
 
-<p>My passion began since high school, around 2019, where I participated in computer science Olympiads. Later, I decided to study front-end development on my own, and also tried myself in the field of game development. To date, I give all my strength and energy to backend development. I want to continue to develop in this direction and find a decent job.</p>
+<p>My passion for programming began in high school around 2019 when I participated in computer science Olympiads. Afterward, I decided to pursue my studies at a technical university, where I focused on backend development. I have completed several courses and online intensives that have further enhanced my skills in this area. 
+Currently, I dedicate all my strength and energy to backend development and am eager to continue growing and finding a rewarding job in this field.</p>
 
 </br>
 
