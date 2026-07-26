@@ -84,16 +84,3 @@ since 2025.
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
----
-
-#### Stats
-
-<div id="badges">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="410" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=Meshicage228&show_icons=true&include_all_commits=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="410" height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meshicage228&layout=compact&theme=transparent" />
-  </a>
-</div>
