@@ -10,8 +10,7 @@ Spring Boot, a lot of database work, message queues, and enough frontend
 to ship a feature end to end without handing it off.
 
 I got into programming through computer science olympiads in school, went
-through BSUIR and a few intensives, and have been doing this commercially
-since 2025.
+through BSUIR and a few intensives
 
 - 💼 Java Developer @ **GP Solutions**
 - 🎓 BSc, **BSUIR** - Software Engineering, 2026
